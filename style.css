@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+.tamanoCarrusel{
+    height: 450px;
+    background-size: contain;
+}
+.espacioIzq{
+    margin-left: 200px;
+}
