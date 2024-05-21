@@ -8,3 +8,12 @@ body{
 .espacioIzq{
     margin-left: 200px;
 }
+/*
+.tamanoImg{
+    padding: 5px;
+    height:300px; 
+}
+.Imagen{
+    background-size: contain; 
+    /* O "cover", "100% 100%" o "auto auto"
+}*/
